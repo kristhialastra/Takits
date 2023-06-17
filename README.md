@@ -1,10 +1,12 @@
-<h1 align="center">
-  Friend-to-Friend Booking Appointment System - <span style="color:#ff8c00">TAKITS</span>
-</h1>
-
 <p align="center">
   <img src="https://i.ibb.co/m51D2vt/Takits-Logo.png" alt="Takits Logo">
 </p>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6F42C1&background=FFC107&center=true&vCenter=true&width=650&lines=+Friend-to-Friend+Booking+Appointment+System+-+TAKITS" alt="Typing SVG" /></a>
+</div>
+
+<br>
 
 <p align="center">
   Welcome to <span style="color:#ff8c00">Takits</span>, your friend-to-friend appointment booking system platform! The name ‘Takits’ comes from the Filipino expression “kitakits,” which means “let’s see each other.” We believe that this perfectly captures the essence of our app, as we aim to help you connect with your friends in a hassle-free way. Here at <span style="color:#ff8c00">Takits</span>, we are passionate about keeping friendships alive and thriving. We believe that one of the best ways to do this is by spending time together in person. However, with busy schedules and conflicting commitments, it can be difficult to coordinate and schedule appointments with friends.
