@@ -75,10 +75,10 @@ You can now use our system locally. Enjoy!
 </p>
 
 <p align="center">
-  <a href="https://postimg.cc/VS0v6ckd"><img src="https://i.postimg.cc/0NcwVkgd/image.png" alt="Screenshot 2" width="200"></a>
-  <a href="https://postimg.cc/Mv4v8Tzh"><img src="https://i.postimg.cc/L84fLYw6/image.png" alt="Screenshot 3" width="200"></a>
+  <a><img src="https://i.postimg.cc/0NcwVkgd/image.png" alt="Screenshot 2" width="200"></a>
+  <a><img src="https://i.postimg.cc/L84fLYw6/image.png" alt="Screenshot 3" width="200"></a>
 </p>
 <p align="center">
-  <a href="https://postimg.cc/tZQBvPSD"><img src="https://i.postimg.cc/RFq2FLcr/image.png" alt="Screenshot 4" width="200"></a>
-  <a href="https://postimg.cc/vD8NJ78S"><img src="https://i.postimg.cc/598WFph1/image.png" alt="Screenshot 5" width="200"></a>
+  <a><img src="https://i.postimg.cc/RFq2FLcr/image.png" alt="Screenshot 4" width="200"></a>
+  <a><img src="https://i.postimg.cc/598WFph1/image.png" alt="Screenshot 5" width="200"></a>
 </p>
