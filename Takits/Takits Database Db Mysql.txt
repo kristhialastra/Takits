@@ -1,0 +1,66 @@
+create database Takits;
+use Takits;
+
+create table User
+(
+user_id int primary key auto_increment,
+fullname varchar(100),
+email varchar(100),
+contact bigint,
+username varchar(100),
+password varchar(100)
+);
+
+ALTER TABLE user AUTO_INCREMENT = 10000;
+
+create table Event
+(
+event_id int primary key auto_increment,
+title varchar(100),
+description varchar(300),
+start timestamp,
+end timestamp,
+location varchar(50),
+address varchar(200),
+link varchar(100),
+contact bigint,
+additionalinfo varchar(200),
+file MEDIUMBLOB,
+eventtype varchar(50), 
+partner int,
+organizer int,
+status varchar(50),
+reason varchar(150),
+requestedto int,
+foreign key (partner) references User(user_id),
+foreign key (organizer) references User(user_id),
+foreign key (requestedto) references User(user_id)
+);
+
+create table availabletime
+(
+id int primary key auto_increment,
+user_id int,
+start time,
+end time,
+day varchar(20),
+foreign key (user_id) references User(user_id)
+);
+
+create table availabledays
+(
+id int primary key auto_increment,
+user_id int,
+mon varchar(20),
+tue varchar(20),
+wed varchar(20),
+thu varchar(20),
+fri varchar(20),
+sat varchar(20),
+sun varchar(20),
+foreign key (user_id) references User(user_id)
+);
+
+ALTER TABLE availabledays ADD eventtype varchar(50);
+ALTER TABLE availabletime ADD eventtype varchar(50);
+
