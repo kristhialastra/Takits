@@ -46,29 +46,33 @@ The purpose of <span style="color:#ff8c00">Takits</span> is to provide a user-fr
 
 ## Instructions on How to Run the Web App Locally
 
-To run the web app locally, follow these steps:
+1. Ensure that you have already downloaded and installed the necessary software: Eclipse for Web Developer, Apache Tomcat, and MySQL.
 
-1. Ensure that you have already downloaded Eclipse for Web Developer, Apache Tomcat, and MySQL.
+2. Download the project zip file.
 
-2. Download the zip file.
+3. Extract the zip file into the `eclipse-workspace` directory on your local machine.
 
-3. Extract it into the `eclipse-workspace` directory.
+4. Open the Eclipse software.
 
-4. Go to `Eclipse-Workspace Java Eclipse Software`.
+5. Navigate to `File > Import > Existing Projects into Workspace`.
 
-5. Navigate to `File > Import > Existing Projects into Workspace > Takits Folder > Click Inner Takits Folder > Select Folder > Finish`.
+6. In the Import dialog, browse to the `Takits` folder inside the `eclipse-workspace` directory. Click on the inner `Takits` folder > Select Folder > Finish.
 
-6. You will now see the project in the "Project Explorer".
+7. You will now see the project in the "Project Explorer" pane on the left side of the Eclipse interface.
 
-7. Go to `Build Path > Add External Jars` and add the MySQL Jar File and Servlet API. Then click `Apply` and `Close`.
+8. Right-click on the project in the Project Explorer, go to `Build Path > Add External Jars`. Here, add the MySQL Jar File and Servlet API. Then click Apply and Close.
 
-8. In the Project Explorer, go to `Java Resources > Src > com.mvc.connection` and update the database password to your MySQL password. Save the changes (Ctrl + S).
+9. In the Project Explorer, expand the project and go to `Java Resources > Src > com.mvc.connection`. Open the relevant file and update the database password to match your MySQL password. Save the changes (Ctrl + S).
 
-9. Create the database using the provided SQL Query.
+10. Open your MySQL interface (like MySQL Workbench or command line), and create the database using the provided SQL Query.
 
-10. Start the server by right-clicking on the project, selecting `Run As > Run on Server`.
+11. Back in Eclipse, start the server by right-clicking on the project in the Project Explorer, selecting `Run As > Run on Server`.
 
-You can now use our system locally. Enjoy!
+12. If prompted, choose the Apache Tomcat server and click Finish.
+
+13. The application should now be running locally. You can access it by opening a web browser and navigating to `localhost:8080/Takits` (or the appropriate port number if not 8080).
+
+Enjoy using our system locally!
 
 <p align="center">
   <img src="https://i.postimg.cc/C1kcZnnL/image.png" alt="Screenshot 1" width="600">
