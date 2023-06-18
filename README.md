@@ -54,7 +54,7 @@ The purpose of <span style="color:#ff8c00">Takits</span> is to provide a user-fr
 
 4. Open the Eclipse software.
 
-5. Navigate to `File > Import > Existing Projects into Workspace`.
+5. Navigate to ` File > Import > Existing Projects into Workspace > Takits Folder > Click Inner Takits Folder > Select Folder > Finish`.
 
 6. In the Import dialog, browse to the `Takits` folder inside the `eclipse-workspace` directory. Click on the inner `Takits` folder > Select Folder > Finish.
 
