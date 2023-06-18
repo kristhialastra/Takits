@@ -56,9 +56,9 @@ The purpose of <span style="color:#ff8c00">Takits</span> is to provide a user-fr
 
 5. Navigate to ` File > Import > Existing Projects into Workspace > Takits Folder > Click Inner Takits Folder > Select Folder > Finish`.
 
-6. In the Import dialog, browse to the `Takits` folder inside the `eclipse-workspace` directory. Click on the inner `Takits` folder > Select Folder > Finish.
+6. In the Import dialog, browse to the `Takits` folder inside the `eclipse-workspace` directory. Click on the inner `Takits folder > Select Folder > Finish `.
 
-7. You will now see the project in the "Project Explorer" pane on the left side of the Eclipse interface.
+7. You will now see the project in the `Project Explorer` pane on the left side of the Eclipse interface.
 
 8. Right-click on the project in the Project Explorer, go to `Build Path > Add External Jars`. Here, add the MySQL Jar File and Servlet API. Then click Apply and Close.
 
