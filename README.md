@@ -75,14 +75,14 @@ The purpose of <span style="color:#ff8c00">Takits</span> is to provide a user-fr
 Enjoy using our system locally!
 
 <p align="center">
-  <img src="https://i.postimg.cc/C1kcZnnL/image.png" alt="Screenshot 1" width="600">
+  <img src="https://i.postimg.cc/C1kcZnnL/image.png" alt="Takits" width="600">
 </p>
 
 <p align="center">
-  <a><img src="https://i.postimg.cc/0NcwVkgd/image.png" alt="Screenshot 2" width="200"></a>
-  <a><img src="https://i.postimg.cc/L84fLYw6/image.png" alt="Screenshot 3" width="200"></a>
+  <a><img src="https://i.postimg.cc/0NcwVkgd/image.png" alt="Takits" width="200"></a>
+  <a><img src="https://i.postimg.cc/L84fLYw6/image.png" alt="Takits" width="200"></a>
 </p>
 <p align="center">
-  <a><img src="https://i.postimg.cc/RFq2FLcr/image.png" alt="Screenshot 4" width="200"></a>
-  <a><img src="https://i.postimg.cc/598WFph1/image.png" alt="Screenshot 5" width="200"></a>
+  <a><img src="https://i.postimg.cc/RFq2FLcr/image.png" alt="Takits" width="200"></a>
+  <a><img src="https://i.postimg.cc/598WFph1/image.png" alt="Takits" width="200"></a>
 </p>
